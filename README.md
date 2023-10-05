@@ -49,7 +49,7 @@ pip install rich
 pip install flask
 pkg install git
 ```
-### For Run XYZ-LOADER Command
+### For Run XYZ-L04D3R Command
 ```
 git clone https://github.com/YounisXyz/XYZ-LOADER
 cd XYZ-LOADER
@@ -63,7 +63,7 @@ python LOADER.py
 ### 02
 <img src="https://github.com/YounisXyz/XYZ-LOADER/blob/main/IMAGES/Screenshot_20231005-193911.jpg" />
 
-### FB AUTO REACTORA COMMENTS
+### FB AUTO REACTORS COMMENT
 <img src="https://github.com/YounisXyz/XYZ-LOADER/blob/main/IMAGES/Screenshot_20231005-193201.jpg" />
 
 ```
