@@ -7,7 +7,7 @@ Multi Loader Force
   🇵🇰TRICKER PAKISTAN🇵🇰
 </h4>
 <p align="center">
-<a href="#"><img title="Author by YounisXyz" src="https://img.shields.io/badge/Coded%20By-YpunisXyz-green?"></a>
+<a href="#"><img title="Author by YounisXyz" src="https://img.shields.io/badge/Coded%20By-YounisXyz-green?"></a>
 <a href="#"><img title="Author by YounisXyz" src="https://img.shields.io/badge/Code%20-python0.1-blue?"></a>
 <br>
 <a href="https://github.com/YounisXyz/followers">
@@ -67,9 +67,9 @@ python LOADER.py
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-YounisXyz-dark?style=for-the-badge&logo=github)](https://github.com/YounisXyz)
 [![Twitter](https://img.shields.io/badge/twitter-YounisXyz-dark?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/YounisXyz)
-[![Facebook](https://img.shields.io/badge/Facebook:01-Th'w M Td Rhss B :) 3:)-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/noob.hackers)
-[![Facebook](https://img.shields.io/badge/Facebook:02-Muhammad Younis-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/xyzhackers)
+[![Facebook](https://img.shields.io/badge/Facebook:01-The-Mentally-Tired-Ruthless-Boii-3:)-:)-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/noob.hackers)
+[![Facebook](https://img.shields.io/badge/Facebook:02-Muhammad-Younis-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/xyzhackers)
 [![Instagram](https://img.shields.io/badge/Instagram-Account-dark?style=for-the-badge&logo=instagram)](https://Instagram.com/younisxyz)
-* If there is something you don't understand, contact WhatsApp
+* If there is something you don't understand, contact WhatsApp 👇
 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B923404708884&text&app_absent=0)
