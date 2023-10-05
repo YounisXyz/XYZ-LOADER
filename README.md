@@ -67,8 +67,8 @@ python LOADER.py
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-YounisXyz-dark?style=for-the-badge&logo=github)](https://github.com/YounisXyz)
 [![Twitter](https://img.shields.io/badge/twitter-YounisXyz-dark?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/YounisXyz)
-[![Facebook](https://img.shields.io/badge/Facebook:01-The-Mentally-Tired-Ruthless-Boii-3:)-:)-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/noob.hackers)
-[![Facebook](https://img.shields.io/badge/Facebook:02-Muhammad-Younis-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/xyzhackers)
+[![Facebook](https://img.shields.io/badge/Facebook01-The-Mentally-Tired-Ruthless-Boii-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/noob.hackers)
+[![Facebook](https://img.shields.io/badge/Facebook02-Muhammad-Younis-dark?style=for-the-badge&logo=facebook)](https://www.facebook.com/xyzhackers)
 [![Instagram](https://img.shields.io/badge/Instagram-Account-dark?style=for-the-badge&logo=instagram)](https://Instagram.com/younisxyz)
 * If there is something you don't understand, contact WhatsApp 👇
 
